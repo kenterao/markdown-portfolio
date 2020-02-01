@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Rubik's Cube](https://store.moma.org/dw/image/v2/BBQC_PRD/on/demandware.static/-/Sites-master-moma/default/dwc8f8eee9/images/102025_a.jpg?sw=626&sh=626&sm=cut)
